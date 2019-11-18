@@ -1,0 +1,15 @@
+category,text,type,link
+Tesla,Tesla Autopilot manque de se prendre une barrière sur l'autoroute,video,https://www.youtube.com/watch?v=fKyUqZDYwrU
+Tesla,Conférence PyTorch et Tesla,video,https://www.youtube.com/watch?v=oBklltKXtDE
+Tesla,"Tesla se rapproche de l'intégration de la conduite urbaine avec Autopilot, les animaux sont maintenant détectés comme des piétons",article,https://www.teslarati.com/tesla-autopilot-dog-detection-video/
+Waymo,"Des images des premières expériences de robotaxi Waymo à Phoenix, AZ",twitter,https://twitter.com/Waymo/status/1194292302728122369?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1194292302728122369&ref_url=https%3A%2F%2Fwww.redditmedia.com%2Fmediaembed%2Fdvcpoi%3Fresponsive%3Dtrue%26is_nightmode%3Dtrue
+Uber,Uber a utilisé de la technologie de son concurrent Waymo,article,https://in.reuters.com/article/us-alphabet-uber-idINKBN1XH1HH
+Nio,Le constructeur chinois s'associe avec Intel (Mobileye) pour créer conjointement une voiture autonome en Chine et explose en bourse,article,https://arstechnica.com/cars/2019/11/how-terrible-software-design-decisions-led-to-ubers-deadly-2018-crash/
+Tesla,Débuts de la Gigafactory 3 en Chine,article,https://www.reuters.com/article/us-tesla-china/tesla-starts-selling-china-made-model-3-with-autopilot-function-idUSKBN1X40H2
+Tesla,La Gigafactory 4 sera officiellement à Berlin,article,https://www.lesnumeriques.com/voiture/elon-musk-annonce-la-construction-de-la-tesla-gigafactory-4-a-berlin-n143145.html
+Tesla,Retrospective sur les premières semaines de Smart Summon,article,https://arstechnica.com/cars/2019/10/i-watched-over-100-tesla-smart-summon-videos-heres-what-i-learned/
+Uber,Le soft d'Uber ignorait les piétons hors des passages piétons,article,https://arstechnica.com/cars/2019/11/how-terrible-software-design-decisions-led-to-ubers-deadly-2018-crash/
+Amateur,Implémentation amateur d'OpenPilot sur une Honda Civic,video,https://www.youtube.com/watch?v=GODp6q4Sac0
+Amateur,Nouveau kit d'upgrade self-driving,article,https://venturebeat.com/2019/11/07/ghost-emerges-from-stealth-with-a-kit-that-gives-your-car-self-driving-capabilities/
+Dev,Un modèle de sémantique SLAM basée sur LiDAR,git,https://github.com/PRBonn/rangenet_lib
+Littérature,Métriques pour évalution la navigation dans des intersections,paper,https://ieeexplore.ieee.org/abstract/document/8779655
