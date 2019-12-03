@@ -1,15 +1,14 @@
 category,text,type,link
-Tesla,Tesla Autopilot manque de se prendre une barrière sur l'autoroute,video,https://www.youtube.com/watch?v=fKyUqZDYwrU
-Tesla,Conférence PyTorch et Tesla,video,https://www.youtube.com/watch?v=oBklltKXtDE
-Tesla,"Tesla se rapproche de l'intégration de la conduite urbaine avec Autopilot, les animaux sont maintenant détectés comme des piétons",article,https://www.teslarati.com/tesla-autopilot-dog-detection-video/
-Waymo,"Des images des premières expériences de robotaxi Waymo à Phoenix, AZ",twitter,https://twitter.com/Waymo/status/1194292302728122369?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1194292302728122369&ref_url=https%3A%2F%2Fwww.redditmedia.com%2Fmediaembed%2Fdvcpoi%3Fresponsive%3Dtrue%26is_nightmode%3Dtrue
-Uber,Uber a utilisé de la technologie de son concurrent Waymo,article,https://in.reuters.com/article/us-alphabet-uber-idINKBN1XH1HH
-Nio,Le constructeur chinois s'associe avec Intel (Mobileye) pour créer conjointement une voiture autonome en Chine et explose en bourse,article,https://arstechnica.com/cars/2019/11/how-terrible-software-design-decisions-led-to-ubers-deadly-2018-crash/
-Tesla,Débuts de la Gigafactory 3 en Chine,article,https://www.reuters.com/article/us-tesla-china/tesla-starts-selling-china-made-model-3-with-autopilot-function-idUSKBN1X40H2
-Tesla,La Gigafactory 4 sera officiellement à Berlin,article,https://www.lesnumeriques.com/voiture/elon-musk-annonce-la-construction-de-la-tesla-gigafactory-4-a-berlin-n143145.html
-Tesla,Retrospective sur les premières semaines de Smart Summon,article,https://arstechnica.com/cars/2019/10/i-watched-over-100-tesla-smart-summon-videos-heres-what-i-learned/
-Uber,Le soft d'Uber ignorait les piétons hors des passages piétons,article,https://arstechnica.com/cars/2019/11/how-terrible-software-design-decisions-led-to-ubers-deadly-2018-crash/
-Amateur,Implémentation amateur d'OpenPilot sur une Honda Civic,video,https://www.youtube.com/watch?v=GODp6q4Sac0
-Amateur,Nouveau kit d'upgrade self-driving,article,https://venturebeat.com/2019/11/07/ghost-emerges-from-stealth-with-a-kit-that-gives-your-car-self-driving-capabilities/
-Dev,Un modèle de sémantique SLAM basée sur LiDAR,git,https://github.com/PRBonn/rangenet_lib
-Littérature,Métriques pour évalution la navigation dans des intersections,paper,https://ieeexplore.ieee.org/abstract/document/8779655
+Waymo,"Waymo a fait un ‘ask me anything’ sur Reddit, dans lequel ils répondent à des questions sur leur programme de voiture autonome",resumé,https://thelastdriverlicenseholder.com/2019/11/15/waymo-engineers-answer-questions-about-autonomous-driving/
+Research,Une étude du MIT sur l’incorporation de la dimension sociale de la conduite dans les IA de prédiction comportementales,article,https://www.csail.mit.edu/news/predicting-peoples-driving-personalities
+Tesla,"Evolution de la flotte Tesla, avec ses différentes versions de hardware embarqués",article,https://lexfridman.com/tesla-autopilot-miles-and-vehicles/
+Open,"Vidéo démontrant la qualité très médiocre des systèmes ADAS des constructeurs, par rapport à ce qui existe déjà en opensource",vidéo,https://www.youtube.com/watch?v=j-WeawXDRtY
+Research,Labélisation sémantique automatique de l’espace libre en utilisant les comportements des usagers,article,http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w14/Tsutsui_Minimizing_Supervision_for_CVPR_2018_paper.pdf
+Actu,Vidéo reportage de CNBC sur la complexité d’apporter des véhicules autonomes commerciaux,vidéo,https://www.youtube.com/watch?v=qf6VrDZ04EQ
+Actu,Un dirigeant de Yandex (google russe) discute de leur programme de véhicule autonome,article,https://www.automotivetestingtechnologyinternational.com/industry-opinion/yandexs-drive-to-develop-universal-and-scalable-self-driving-technology.html
+Actu,Les équipementiers s’inquiètent de la transition entre ADAS et AV,article,https://www.eetimes.com/document.asp?doc_id=1335330&page_number=1
+Tesla,"Malgré son look retrofuturiste étrange, le Cybertruck Tesla a reçu 200.000 commandes rien que la première semaine",article,https://arstechnica.com/cars/2019/11/elon-musk-tesla-cybertruck-already-has-200000-preorders/
+Tesla,"Inspiré par Tesla, Ford annonce une Mustang électrique",article,https://arstechnica.com/cars/2019/11/heres-everything-we-know-about-the-electric-ford-mustang-mach-e/
+Open,Réflexions sur le modèle économique des Robotaxis,reddit,https://www.reddit.com/r/SelfDrivingCars/comments/e0t42z/economics_of_robotaxis/
+Open,Les plaintes des usagers du cheval avaient le même genre de réticences envers la voiture que les détracteurs des EV/AV ont aujourd’hui,podcast,https://podcasts.apple.com/us/podcast/pessimists-archive-podcast/id1104682320?i=1000382127102
+Actu,"5G et AV, une réalité compliquée",article,https://www.lightreading.com/the-edge/5g-and-autonomous-cars-flashy-promise-meets-complicated-reality/d/d-id/755912?

@@ -1,0 +1,11 @@
+PSA DRIA : ML-FR-AITIDF-PSA_DRIA_AOBS_ADAS@altran.com
+
+RSA FUSION: ML-FR-AITIDF-RSA_DEA_S_Fusion@altran.com
+
+RSA Localisation ML-FR-AITIDF-RSA_DEA_S_P@altran.com
+
+RSA WP365 ADAS : ML-FR-AITIDF-RSA_WP365@altran.com
+
+PSA SFAD : ML-FR-AITIDF-PSA_DAPF_SFAD@altran.com
+
+Renault TDS : ML-FR-AITIDF-RSA_DEA_TDS@altran.com
